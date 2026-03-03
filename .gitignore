@@ -1,0 +1,12 @@
+# Temporary files
+*.txt
+*.log
+*.tmp
+*.backup
+
+# macOS system files
+.DS_Store
+._*
+
+# Backup files
+*~
