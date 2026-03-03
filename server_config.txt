@@ -1,2 +1,0 @@
-Server Role: Web
-Environment: Production
